@@ -1,4 +1,4 @@
-package org.example;
+
 
 /*
  *  UCF COP3330 Summer 2021 Assignment 10
@@ -14,8 +14,7 @@ package org.example;
 //Subtotal: $64.00
 //Tax: $3.52
 //Total: $67.52
-
-import java.text.DecimalFormat;
+package org.example;
 import java.util.Scanner;
 
 public class App {
